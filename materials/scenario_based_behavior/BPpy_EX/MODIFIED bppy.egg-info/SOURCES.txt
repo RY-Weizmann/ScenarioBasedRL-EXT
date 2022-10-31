@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+bppy/__init__.py
+bppy.egg-info/PKG-INFO
+bppy.egg-info/SOURCES.txt
+bppy.egg-info/dependency_links.txt
+bppy.egg-info/top_level.txt

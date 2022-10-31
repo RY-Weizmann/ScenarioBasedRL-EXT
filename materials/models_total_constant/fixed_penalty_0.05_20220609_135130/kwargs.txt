@@ -1,0 +1,1 @@
+{'episodes': None, 'run_name': 'fixed_penalty_0.05', 'cost_limit': [0, 0, 0], 'avoid_print': False, 'rules_list': ['rule1_active=True', 'rule2_active=True', 'rule5_active=True', 'only_count_asif_penalty=True']}

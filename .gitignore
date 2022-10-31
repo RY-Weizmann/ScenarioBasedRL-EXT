@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Converted local models, logs and local file [Davide]
+/python_training/log/
+/code_garbage/
+/launch_files/
+
+# Cluster support scripts
+filter_data.py
+query_launch.py
+query_launch.py
+*.json
+*.png
+*.json
+python_training/env/linux_training/SafeRobotics_Data/ML-Agents/Timers/SafetyGym_timers.json
