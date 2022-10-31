@@ -1,0 +1,5 @@
+show total number of jobs
+squeue -u guyam -h -t pending,running -r -O "state" | uniq -c
+
+cancel all jobs (pending and running)
+scancel -u guyam
